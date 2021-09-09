@@ -3,3 +3,7 @@
 <a href="https://link.vex.com/vexcode-v5blocks-windows"> VEXcode </a>
 <p></p>
 <a href="https://link.vex.com/vexcode-v5text-windows"> VEXcode Text</a>
+* Start a line with a star
+* Profit!
+* * Start a line with a star
+* Profit!
