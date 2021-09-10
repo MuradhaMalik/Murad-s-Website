@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Coding Secrets
 ### Custom Movement Blocks/Functions
 Heres a coding secret if you are using a xdrive/mechanum drive or some other wierd drive type. im doing it in blocks for simplicity but itl work in c++ as a func and a smth. 
