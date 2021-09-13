@@ -1,4 +1,4 @@
-<link rel="shortcut icon" href="/Murad-s-Page/images/favicon" />
+<link rel="shortcut icon" href="/Murad-s-Page/images/muradlma8.JPG" />
 
 ## Murad's Robotics Page
 this is a work in progress!!
