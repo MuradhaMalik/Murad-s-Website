@@ -1,3 +1,5 @@
+<link rel="shortcut icon" href="/Murad-s-Page/images/favicon" />
+
 ## Murad's Robotics Page
 this is a work in progress!!
 ### Sections
