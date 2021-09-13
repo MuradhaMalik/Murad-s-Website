@@ -5,4 +5,4 @@ this is a work in progress!!
 * here is where my experience would be
 * here is where the tip log would be
 * password protected leeks
-* [ Coding Tips ](/Murad-s-Page/coding-secrets)
+* [ Coding Tips ](/Murad-s-Page/roboticsPages/coding-secrets)
